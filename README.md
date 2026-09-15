@@ -54,7 +54,9 @@ The project consists of **8 main dashboard pages**:
 
 ---
 
-# 🏠 1. Banking Analytics Home
+# 🏠 1. Home Page
+
+<img width="780" height="464" alt="Screenshot 2026-09-15 160045" src="https://github.com/user-attachments/assets/e4e5aab8-060e-4745-8b94-eba461cc8282" />
 
 ### Purpose
 
