@@ -605,6 +605,24 @@ Banking-Analytics/
         └── Customer_Support.png
 
 ```
+🗄️ SQL Analysis
+SQL Server was used to analyze the banking database and generate business-focused insights across customers, branches, accounts, transactions, loans, cards, fraud/risk, and customer support.
+
+The analysis uses aggregation, joins, subqueries, CTEs, conditional logic, and ranking to transform raw relational data into actionable KPIs and insights.
+
+📂 SQL Analysis Modules
+| SQL File                             | Analysis Performed                       | Key Business Insights                                                                                                     |
+| ------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `Schema_and_Key_Constraint.sql`      | Database schema & relationships          | Created the banking database and established relationships using primary/foreign-key constraints                          |
+| `Customer_Analysis.sql`              | Customer demographics, balances & credit | Identified high-value customers, geographic concentration, income patterns, credit scores, and risk categories            |
+| `Accounts.sql`                       | Account portfolio & balances             | Analyzed account status, account types, active-account %, balances, deposits, and top accounts                            |
+| `Transactions_analysis.sql`          | Transaction behavior                     | Analyzed transaction volume, average transaction value, top accounts, transaction types, and deposit vs withdrawal trends |
+| `Branch_performance_analysis.sql`    | Branch performance                       | Compared branches by deposits, loans, customers, employee salaries, and hiring trends                                     |
+| `Loan_analysis.sql`                  | Loan portfolio & repayment               | Analyzed loan volume, loan types, interest rates, late payments, and branch/loan-type risk                                |
+| `Risk_And Fraud_Analysis.sql`        | Credit risk & loan recovery              | Identified high-risk customers, potential default candidates, credit-risk categories, and loan recovery rate              |
+| `Card_analysis.sql`                  | Card portfolio & spending                | Analyzed card types, card status, credit limits, multiple-card customers, transaction volume, and customer spending       |
+| `Customer_Satisfaction_Analysis.sql` | Customer support & satisfaction          | Analyzed satisfaction score, resolution time, common issues, and branches with lower satisfaction                         |
+
 
 ---
 
