@@ -605,7 +605,8 @@ Banking-Analytics/
         └── Customer_Support.png
 
 ```
-🗄️ SQL Analysis
+# 🗄️ SQL Analysis
+
 SQL Server was used to analyze the banking database and generate business-focused insights across customers, branches, accounts, transactions, loans, cards, fraud/risk, and customer support.
 
 The analysis uses aggregation, joins, subqueries, CTEs, conditional logic, and ranking to transform raw relational data into actionable KPIs and insights.
