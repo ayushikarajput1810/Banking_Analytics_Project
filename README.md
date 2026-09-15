@@ -595,7 +595,7 @@ Banking-Analytics/
     ├── Banking_Analytics_Dashboard.pbix
     │
     └── 📂 Screenshots/
-        ├── Home.png
+        ├── Home Page.png
         ├── Executive_Dashboard.png
         ├── Customer_Analysis.png
         ├── Branch_Performance.png
