@@ -574,32 +574,36 @@ This project helps answer questions such as:
 ```text
 Banking-Analytics/
 │
-├── README.md
+├── 📄 README.md
 │
-├── Power BI/
-│   └── Banking_Analytics_Dashboard.pbix
+├── 📂 01_Database_Setup/
+│   └── Schema_and_Key_Constraint.sql
 │
-├── SQL/
-│   ├── 01_KPIs.sql
-│   ├── 02_Customer_Analysis.sql
-│   ├── 03_Branch_Performance.sql
-│   ├── 04_Accounts_Transactions.sql
-│   ├── 05_Loan_Analysis.sql
-│   ├── 06_Cards_Fraud.sql
-│   └── 07_Customer_Support.sql
+├── 📂 02_SQL_Analysis/
+│   │
+│   ├── Customer_Analysis.sql
+│   ├── Accounts.sql
+│   ├── Transactions_analysis.sql
+│   ├── Branch_performance_analysis.sql
+│   ├── Loan_analysis.sql
+│   ├── Card_analysis.sql
+│   ├── Risk_And_Fraud_Analysis.sql
+│   └── Customer_Satisfaction_Analysis.sql
 │
-├── Dataset/
-│   └── banking_dataset.csv
-│
-└── Screenshots/
-    ├── Home.png
-    ├── Executive_Dashboard.png
-    ├── Customer_Analysis.png
-    ├── Branch_Performance.png
-    ├── Accounts_Transactions.png
-    ├── Loan_Analysis.png
-    ├── Cards_Fraud.png
-    └── Customer_Support.png
+├── 📂 03_PowerBI_Dashboard/
+    │
+    ├── Banking_Analytics_Dashboard.pbix
+    │
+    └── 📂 Screenshots/
+        ├── Home.png
+        ├── Executive_Dashboard.png
+        ├── Customer_Analysis.png
+        ├── Branch_Performance.png
+        ├── Accounts_Transactions.png
+        ├── Loan_Analysis.png
+        ├── Cards_Fraud.png
+        └── Customer_Support.png
+
 ```
 
 ---
