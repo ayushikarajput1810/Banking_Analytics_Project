@@ -56,41 +56,11 @@ The project consists of **8 main dashboard pages**:
 
 # 🏠 1. Home Page
 
-<img width="780" height="464" alt="Screenshot 2026-09-15 160045" src="https://github.com/user-attachments/assets/e4e5aab8-060e-4745-8b94-eba461cc8282" />
-
-### Purpose
-
-The Home dashboard serves as the **central navigation page** for the Banking Analytics solution.
-
-It provides an overview of the analytical areas available in the project and allows users to navigate between individual dashboards.
-
-### Dashboard Sections
-
-- Executive Dashboard
-- Customer Analysis
-- Branch Performance
-- Accounts & Transactions
-- Loan Analysis
-- Cards & Fraud Analysis
-- Customer Support
-
-### Key Insights
-
-- Provides a centralized entry point to the entire banking analytics solution.
-- Organizes banking operations into separate analytical areas.
-- Provides consistent navigation across all dashboards.
-- Allows users to quickly access the information relevant to their role.
-
-### Business Value
-
-- Improves dashboard usability and navigation.
-- Provides a structured analytical framework.
-- Reduces the time required to find relevant business information.
-- Creates a professional and user-friendly BI experience.
-
----
+<img width="778" height="464" alt="Screenshot 2026-09-15 160045" src="https://github.com/user-attachments/assets/643beb16-b2c0-4c42-9252-e412fac14c17" />
 
 # 📊 2. Executive Overview Dashboard
+
+<img width="791" height="464" alt="Screenshot 2026-09-15 160246" src="https://github.com/user-attachments/assets/38a83b76-54cb-43e6-b3b8-361909a184f0" />
 
 ### Purpose
 
@@ -145,6 +115,8 @@ The **Executive Overview Dashboard** provides senior management with a high-leve
 
 # 👥 3. Customer Analysis Dashboard
 
+<img width="788" height="475" alt="Screenshot 2026-09-15 160323" src="https://github.com/user-attachments/assets/4ac657e3-9074-45e2-8bc5-fd7f16c72a57" />
+
 ### Purpose
 
 The Customer Analysis Dashboard provides insights into **customer demographics, credit behavior, financial balances, customer growth, and geographic distribution**.
@@ -194,6 +166,8 @@ The Customer Analysis Dashboard provides insights into **customer demographics, 
 
 # 🏦 4. Branch Performance Dashboard
 
+<img width="785" height="472" alt="Screenshot 2026-09-15 160451" src="https://github.com/user-attachments/assets/5ae9ac81-ab1c-4c33-95dd-82627d81b908" />
+
 ### Purpose
 
 The Branch Performance Dashboard evaluates the performance of the bank's branch network using **deposits, customers, employees, loans, and state-level performance**.
@@ -238,6 +212,8 @@ The Branch Performance Dashboard evaluates the performance of the bank's branch 
 ---
 
 # 💳 5. Accounts & Transactions Dashboard
+
+<img width="787" height="470" alt="Screenshot 2026-09-15 160542" src="https://github.com/user-attachments/assets/5e8ff55b-4a68-448c-8e5c-9064f4be17e5" />
 
 ### Purpose
 
@@ -291,6 +267,8 @@ The Accounts & Transactions Dashboard analyzes **account activity, account statu
 ---
 
 # 💰 6. Loan Analysis Dashboard
+
+<img width="784" height="474" alt="Screenshot 2026-09-15 160621" src="https://github.com/user-attachments/assets/72d397ec-fb62-40f3-b625-f8320810dd3f" />
 
 ### Purpose
 
@@ -347,6 +325,8 @@ The Loan Analysis Dashboard provides a detailed view of the bank's **loan portfo
 
 # 🛡️ 7. Card & Fraud Analysis Dashboard
 
+<img width="785" height="476" alt="Screenshot 2026-09-15 160707" src="https://github.com/user-attachments/assets/90b085ca-2c28-4b0a-a0b5-827eb102d0f6" />
+
 ### Purpose
 
 The Card & Fraud Analysis Dashboard monitors **card portfolio performance, card transactions, fraud activity, transaction channels, and merchant-level fraud patterns**.
@@ -396,6 +376,8 @@ The Card & Fraud Analysis Dashboard monitors **card portfolio performance, card 
 ---
 
 # 🎧 8. Customer Support Performance Dashboard
+
+<img width="787" height="473" alt="Screenshot 2026-09-15 160750" src="https://github.com/user-attachments/assets/15461a70-d9be-494e-afca-366e945f13d1" />
 
 ### Purpose
 
