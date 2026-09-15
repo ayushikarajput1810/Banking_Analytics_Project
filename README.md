@@ -625,6 +625,116 @@ The analysis uses aggregation, joins, subqueries, CTEs, conditional logic, and r
 | `Customer_Satisfaction_Analysis.sql` | Customer support & satisfaction          | Analyzed satisfaction score, resolution time, common issues, and branches with lower satisfaction                         |
 
 
+# 🔍 Key SQL Analysis
+## 👥 Customer Analysis
+Identified Top 10 customers by account balance.
+
+Analyzed customer distribution by state.
+
+Compared average annual income by occupation.
+
+Identified the occupation with the highest average income.
+
+Compared average credit score by occupation.
+
+Classified customers into Excellent, Good, and Poor credit-risk categories using CASE WHEN.
+
+## 💳 Account Analysis
+Calculated total and average account balances.
+
+Analyzed active vs inactive accounts.
+
+Measured the percentage of active accounts.
+
+Compared account types by number of accounts and total deposits.
+
+Identified account types with the highest average balance.
+
+Identified the Top 10 accounts by balance.
+
+## 💸 Transaction Analysis
+Calculated average transaction amount.
+
+Analyzed monthly transaction volume.
+
+Identified the Top 10 accounts by transaction value.
+
+Determined the most-used transaction type.
+
+Categorized transactions into Deposit, Withdrawal, and Other.
+
+Analyzed monthly deposit vs withdrawal trends.
+
+## 🏦 Branch Performance Analysis
+Ranked branches by total deposits.
+
+Ranked branches by total loan amount.
+
+Identified the branch with the highest number of customers.
+
+Calculated average employee salary by branch.
+
+Analyzed employees hired by year.
+
+Identified the Top 5 branches by deposits.
+
+## 💰 Loan Analysis
+Calculated total loans issued and minimum/maximum loan amounts.
+
+Analyzed loans by type and status.
+
+Calculated average interest rate overall and by loan type.
+
+Identified the loan type with the highest interest rate.
+
+Analyzed late payments.
+
+Identified loan types with the highest number and value of late payments.
+
+Identified branches with the highest number of late-payment loans.
+
+## 🛡️ Risk & Fraud Analysis
+Classified customers based on credit score.
+
+Identified high-risk customers using low credit score, high loan exposure, and late-payment behavior.
+
+Identified customers with multiple indicators associated with potential default risk.
+
+Calculated the overall loan recovery rate using CTEs.
+
+Combined customer, loan, and payment data to support risk analysis.
+
+Note: The potential-default analysis is a rule-based risk screening approach, not a predictive machine-learning model.
+
+## 💳 Card Analysis
+Calculated total cards issued.
+
+Analyzed cards by type and status.
+
+Identified the most popular card type.
+
+Calculated average credit limit.
+
+Identified the card type with the highest average credit limit.
+
+Identified Top 10 cards by credit limit.
+
+Identified customers holding multiple cards.
+
+Analyzed total and average card transaction values.
+
+Identified the card type with the highest transaction volume.
+
+Identified Top 10 customers by card spending.
+
+## 🎧 Customer Satisfaction Analysis
+Calculated average customer satisfaction score.
+
+Calculated average ticket resolution time.
+
+Identified the most common support issue.
+
+Identified the Top 3 branches with the lowest average satisfaction scores.
 ---
 
 # 🚀 Project Outcome
